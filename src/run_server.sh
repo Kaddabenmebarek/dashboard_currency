@@ -1,0 +1,1 @@
+C:/Users/bureau/py/CurrencyDashBoard/CurrencyDashBoard/.venv/Scripts/pip.exe C:/Users/bureau/py/CurrencyDashBoard/CurrencyDashBoard/src/manage.py runserver
